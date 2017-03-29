@@ -17,7 +17,7 @@ The slides for this lesson are in pdf format in this repository.
 ## Links
 - [Bootstrap](http://getbootstrap.com/css/)
 - [Bootstrap CDN](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css)
-- [HamilIpsum](http://hamilipsum.net/?paras=5&type=all-lyrics)
+- [Hamil-Ipsum](http://hamilipsum.net/?paras=5&type=all-lyrics)
 
 ---
 
