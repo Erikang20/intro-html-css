@@ -17,6 +17,7 @@ The slides for this lesson are in pdf format in this repository.
 ## Links
 - [Bootstrap](http://getbootstrap.com/css/)
 - [Bootstrap CDN](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css)
+- [HamilIpsum](http://hamilipsum.net/?paras=5&type=all-lyrics)
 
 ---
 
@@ -31,3 +32,13 @@ By the end of this lesson you will...
   - Bootstrap
   - CDN
 * Create a multi-page responsive website
+
+---
+
+# A Resume
+
+![splash](http://res.cloudinary.com/isityou/image/upload/c_scale,w_800/v1490803642/aham_splash_llgxjy.png)
+
+---
+
+![resume](http://res.cloudinary.com/isityou/image/upload/c_scale,w_800/v1490803642/aham_resume_x5dnzt.png)
